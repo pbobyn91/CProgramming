@@ -1,0 +1,1 @@
+void card ( int card_type );

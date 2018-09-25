@@ -1,0 +1,1 @@
+int getnumber ( char type[20] );
